@@ -9,7 +9,7 @@ npm run build
 Develop library in the browser, with hot reload:
 
 ```
-npm run build
+npm run dev
 ```
 
 ## Details
