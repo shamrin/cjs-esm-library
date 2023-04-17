@@ -12,6 +12,16 @@ Develop library in the browser, with hot reload:
 npm run dev
 ```
 
+Try the library in Node:
+
+```
+$ node
+> const {hello} = await import('./dist/test-lib.cjs')
+undefined
+> hello()
+hello world
+```
+
 ## Details
 
 This example was build by following Vite guide:
