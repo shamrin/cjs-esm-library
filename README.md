@@ -1,6 +1,6 @@
 # Universal CommonJS / ESM / TypeScript library example
 
-Build `test-lib.cjs` (CommonJS) and `test-lib.js` (ESM):
+Build `test-lib.cjs` (CommonJS) and `test-lib.js` (ESM) in one go:
 
 ```
 npm run build
